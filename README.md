@@ -1,7 +1,7 @@
 # Mapa Tesouro Automato
 
 
-##Trabalho sobre Automatos realizado por:
+## Trabalho sobre Automatos realizado por:
 #### Leonardo de Alcantara Salvador Silva - 27261140
 Athos Willian Oliveira de Almeida - 26078643
 Carlos Eduardo Lessa de Lima - 25794337
